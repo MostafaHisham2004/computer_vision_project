@@ -1,0 +1,13 @@
+path: C:/Users/youse/OneDrive/Desktop/Vehicle/vehicle dataset   # ← change this to your actual path
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 6
+names:
+  - car
+  - threewheel
+  - bus
+  - truck
+  - motorbike
+  - van
